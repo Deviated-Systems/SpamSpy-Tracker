@@ -1,7 +1,7 @@
 # SpamSpy-Tracker
 ![](https://i.imgur.com/UT1pk8i.png)
 
-Tracker for issues specific to SpamSpy and its API. If you have a general issue or non-integration-specific feature request please go to https://discord.gg/nDw5HbKt
+Tracker for issues specific to SpamSpy and its API. If you have a general issue or non-integration-specific feature request please go to [https://discord.gg/nDw5HbKt](https://discord.gg/UprJPmzV2J)
 ## Conduct
 There are a couple basic rules of conduct that should be followed at all times by everyone participating in the discussions. While this is generally a relaxed environment, please remember the following:
 
